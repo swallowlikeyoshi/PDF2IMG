@@ -1,0 +1,11 @@
+# Ignore everything
+/*
+
+**/__*__
+
+# But include specific files
+!.gitignore
+!main.py
+!requirements.txt
+!README.md
+!/PDF2IMG
